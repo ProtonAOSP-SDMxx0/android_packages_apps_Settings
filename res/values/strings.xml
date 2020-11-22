@@ -13657,4 +13657,7 @@
     <string name="bluetooth_connect_access_dialog_positive">Connect</string>
 
     <string name="sandboxed_google_play">Sandboxed Google Play</string>
+    
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Screen refresh rate</string>
 </resources>
